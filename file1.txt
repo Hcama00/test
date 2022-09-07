@@ -1,2 +1,2 @@
-{"keys": ["some_key", "secret_key", "another_key"], "values": [["example@example.com", "secret", "me"],["example@example.com", "secret", "me"],["example@example.com", "secret", "me"],["example@example.com", "secret", "me"],["example@example.com", "secret", "me"],["example@example.com", "secret", "me"],["example@example.com", "secret", "me"]]}
+{"keys": ["key_reference"], "values": [["1"],["2"]]}
 
