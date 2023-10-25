@@ -1,3 +1,8 @@
+{
+  "version": 1,
+  "variables": [{
+    "names": ["some_key", "secret_key", "nro_identy, "name_identy", "lastname_identy"],
+    "values": [
 ["100001","102099","73304049","Alejandro Sergio","Martinez Concha"],
 ["100002","102098","75538164","Antony oscar","paucar mendoza"],
 ["100003","102097","73506755","carlos andree","giron galiano"],
@@ -3964,3 +3969,7 @@
 ["103964","98136","74022192","Luis Felipe","Rodríguez calderón"],
 ["103965","98135","23271766","Johnny Ronald","Palomino Arango"],
 ["103966","98134","22300019","nelly eulalia","montañez uscata"],
+
+ ]}
+  ]
+}
